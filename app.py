@@ -6,8 +6,19 @@ import pickle
 st.set_page_config(
     page_title="Mental Health Screening Survey (MHSS)",
     page_icon="📋",
-    layout="centered"
-)
+    layout="centered")
+    # --- HIDE STREAMLIT HEADER TOOLBAR ---
+st.markdown(
+        """
+        <style>
+            header[data-testid="stHeader"] {
+            display: none !important;
+            }
+        </style>
+        """,
+    unsafe_allow_html=True
+    )
+
 
 # 1. Text Cleaning Function (Matches model.ipynb exactly)
 def clean_text(text):
