@@ -72,7 +72,9 @@ pip install -r requirements.txt
 .\.venv\Scripts\python.exe -m streamlit run app.py
 ```
 
-##🔮 Acknowledgments
+---
+
+## 🔮 Acknowledgments
 
 Special thanks to Aishwarya Jayaprakash ([Github](https://github.com/Aiswarya-Jayaprakash)) for providing the data science infrastructural guidelines, foundational preprocessing rules, and the hands-on instruction that enabled this end-to-end classification system design and deployment.
 
