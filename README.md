@@ -2,7 +2,7 @@
 
 An efficient, lightweight machine learning classification dashboard designed to process multi-dimensional wellness metrics, vectorize natural language text representations, and evaluate potential indicators of emotional distress with live probabilistic confidence tracking.
 
-🚀 **Live Demo:** [Launch App on Streamlit Community Cloud](https://your-repository-link.streamlit.app/) 
+🚀 **Live Demo:** [Launch App on Streamlit Community Cloud](https://mhss-ats001.streamlit.app/) 
 
 ---
 
